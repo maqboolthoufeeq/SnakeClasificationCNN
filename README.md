@@ -8,3 +8,6 @@ https://drive.google.com/drive/folders/1xVZFNklTvQuXKjPKfwkyYxZmlw1tVYVx?usp=sha
 
 https://www.kaggle.com/datasets/sameeharahman/preprocessed-snake-images
 
+
+## Authors
+Noemi
