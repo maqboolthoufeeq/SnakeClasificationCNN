@@ -10,4 +10,4 @@ https://www.kaggle.com/datasets/sameeharahman/preprocessed-snake-images
 
 
 ## Authors
-Noemi
+Noemi and Maqbool
